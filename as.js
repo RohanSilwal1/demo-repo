@@ -26,6 +26,6 @@ if(num>0)
         
     }
     else{
-     console.log("   this is not a strong number");
+     console.log("   this is not amstrong number");
     }
 }
